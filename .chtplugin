@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DeployProperties>
+<property>
+    <env>532</env>
+    <applicationId>Graphic_lock</applicationId>
+    <applicationVersion>v5</applicationVersion>
+    <warFile>C:\Users\shinhung\workspace\Gr.war</warFile>
+    <stage>4</stage>
+</property>
+</DeployProperties>
